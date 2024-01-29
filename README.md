@@ -19,18 +19,9 @@ Always eager to learn and take on new challenges in the world of technology.</h3
  <a href="" target="_blank" rel="noreferrer"> 
    <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" alt="jestjs" width="40" height="40"/> 
   </a> 
-
-   <a href="" target="_blank" rel="noreferrer"> 
-   <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-dpporae2.png" alt="git" width="40" height="40"/> 
-  </a> 
-<a href="" target="_blank" rel="noreferrer"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-
-
-   
-
- 
+  <a href="" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>   
+  </a>
  <a href="" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
  </a>
@@ -47,29 +38,40 @@ Always eager to learn and take on new challenges in the world of technology.</h3
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/> 
   </a>
-  <a href="" target="_blank" rel="noreferrer"> 
+
+<h4 align="left">Software :</h4>
+ <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
 
-
-  <a href="" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>   
+   <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> 
   </a>
+
   <a href="" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
-  
+
+<h4 align="left">Project management :</h4>
+
   <a href="" target="_blank" rel="noreferrer"> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40"/> 
   </a> 
- 
- 
+   <a href="" target="_blank" rel="noreferrer"> 
+   <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-dpporae2.png" alt="github" width="40" height="40"/> 
+  </a> 
+<a href="" target="_blank" rel="noreferrer"> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" alt="gitlab" width="40" height="40"/> 
+  </a> 
 
+<h4 align="left">Operating systems :</h4>
+<a href="" target="_blank" rel="noreferrer"> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon-Mac.svg" alt="macos" width="40" height="40"/> 
+  </a> 
+<a href="" target="_blank" rel="noreferrer"> 
+   <img src="https://www.svgrepo.com/show/176748/windows-windows.svg" alt="windows" width="40" height="40"/> 
+  </a> 
 
-
-**Client:** HTML, CSS, TailwindCSS, JavaScript, React JS
-
-**Server:** NodeJS, ExpressJS
 
 
 ## 🔗 Contact 

@@ -6,8 +6,9 @@ Always eager to learn and take on new challenges in the world of technology.</h4
 ## 🛠 Skills
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-
+ <a href="https://fr.legacy.reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+ </a>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 

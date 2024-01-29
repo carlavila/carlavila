@@ -4,7 +4,7 @@ Always eager to learn and take on new challenges in the world of technology.</h3
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/dd9607cffb614b160651ea2d993fad4890718d42ca26da381049dd7934922a09/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f3668654251536a7432496f41382f67697068792e6769663f6369643d656366303565343771766c726f736a646f766d696375397833616d3371696e627065376a743462657570677270397070267269643d67697068792e6769662663743d67">
 
 ## 🛠 Skills
-<h4 align="left">Development :</h4>
+<h4 align="left">Development </h4>
 <p align="left"> 
   <a href="" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -39,7 +39,7 @@ Always eager to learn and take on new challenges in the world of technology.</h3
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/> 
   </a>
 
-<h4 align="left">Software :</h4>
+<h4 align="left">Software </h4>
  <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
@@ -52,7 +52,7 @@ Always eager to learn and take on new challenges in the world of technology.</h3
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
 
-<h4 align="left">Project management :</h4>
+<h4 align="left">Project management </h4>
 
   <a href="" target="_blank" rel="noreferrer"> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40"/> 
@@ -64,17 +64,18 @@ Always eager to learn and take on new challenges in the world of technology.</h3
    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" alt="gitlab" width="40" height="40"/> 
   </a> 
 
-<h4 align="left">Operating systems :</h4>
+<h4 align="left">Operating systems </h4>
 <a href="" target="_blank" rel="noreferrer"> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon-Mac.svg" alt="macos" width="40" height="40"/> 
   </a> 
 <a href="" target="_blank" rel="noreferrer"> 
    <img src="https://www.svgrepo.com/show/176748/windows-windows.svg" alt="windows" width="40" height="40"/> 
   </a> 
-
-
-
+</p>
 ## 🔗 Contact 
-[![website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vilacarla.com/) 
+<p align="left">
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vilacarla/)
+<a href="https://www.linkedin.com/in/vilacarla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vilacarla/" height="30" width="40" /></a>
+<a href="https://vilacarla.com" target="blank"><img align="center" src="https://icon-library.com/images/white-website-icon-png/white-website-icon-png-9.jpgg" alt="https://vilacarla.com" height="30" width="40" /></a>
+</p>
+

@@ -17,7 +17,7 @@ Always eager to learn and take on new challenges in the world of technology.</h3
   </a> 
 
    <a href="" target="_blank" rel="noreferrer"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="git" width="40" height="40"/> 
+   <img src="https://www.svgrepo.com/show/445786/github.svg" alt="git" width="40" height="40"/> 
   </a> 
 <a href="" target="_blank" rel="noreferrer"> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" alt="git" width="40" height="40"/> 

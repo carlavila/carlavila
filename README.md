@@ -72,10 +72,12 @@ Always eager to learn and take on new challenges in the world of technology.</h3
    <img src="https://www.svgrepo.com/show/176748/windows-windows.svg" alt="windows" width="40" height="40"/> 
   </a> 
 </p>
+
+
 ## 🔗 Contact 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/vilacarla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vilacarla/" height="30" width="40" /></a>
-<a href="https://vilacarla.com" target="blank"><img align="center" src="https://icon-library.com/images/white-website-icon-png/white-website-icon-png-9.jpgg" alt="https://vilacarla.com" height="30" width="40" /></a>
+<a href="https://vilacarla.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Neoliberal_globe_logo.svg" alt="https://vilacarla.com" height="30" width="40" /></a>
 </p>
 
